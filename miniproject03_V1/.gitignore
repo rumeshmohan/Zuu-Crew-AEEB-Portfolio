@@ -21,3 +21,6 @@ dist/
 
 # --- Project Specific Data/Temporary ---
 data/catalog_pre_patch_backup.json
+
+*.sqlite
+qdrant_db/
